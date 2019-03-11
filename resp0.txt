@@ -1,0 +1,31 @@
+ls
+    2  pwd
+    3  dir
+    4  cd /desktop
+    5  cd desktop
+    6  git clone https://github.com/IIC2115/Syllabus.git
+    7  cd Syllabus/
+    8  ls
+    9  git add *
+   10  git commit -m "se sube el lab0"
+   11  git pull
+   12  cd desktop
+   13  git clone https://github.com/gikaid/LAB0.git
+   14  cd LAB0
+   15  git add primer
+   16  git add primer.txt
+   17  git commit -m "Subiendo el primer lab"
+   18  git config --global user.name "gikaid"
+   19  git commit -m "Subiendo el primer lab"
+   20   git config --global user.email "gikaid@uc.cl"
+   21  git commit -m "Subiendo"
+   22  git push
+   23  git pull
+   24  doskey /History
+   25  doskey /history
+   26  cd doskey /History
+   27  History
+   28  /History
+   29  doskey
+   30  History
+   31  history
